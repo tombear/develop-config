@@ -1,0 +1,23 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+name = Tom Wu
+email = tomorzi@gmail.com
+[push]
+    default = simple
+[alias]
+    st = status
+    br = branch
+    ci = commit
+    co = checkout
+[diff]
+    color = auto
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = auto
+[status]
+    color = auto
+[branch]
+    color = auto
